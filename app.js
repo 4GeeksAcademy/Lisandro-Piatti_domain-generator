@@ -44,7 +44,6 @@ let generateNameDomain = () => {
 
         //agregando un elmento a nuestro nombre de dominio
         domainName.push(arr[randomNumber]);
-        console.log(domainName);
     }
 
     console.log(domainName.join(""));
