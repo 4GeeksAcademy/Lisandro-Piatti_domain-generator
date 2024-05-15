@@ -5,12 +5,6 @@ let domain = [".com", ".net", ".us", ".io"];
 
 let allArrays = [pronoun, adj, noun, domain];
 
-console.log("todo ok");
-
-
-
-
-
 let generateNameDomain = () => {
     
     let domainName = [];
